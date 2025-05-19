@@ -1,4 +1,4 @@
-# Banking System in C with OpenGL
+# Bank Management System in C with OpenGL
 
 ## Overview
 This project is a simple banking system developed in the C programming language using OpenGL for the graphical user interface. It simulates basic banking operations with a user-friendly graphical interface controlled through keyboard and mouse interactions.
